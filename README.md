@@ -1,2 +1,1 @@
-# Slang-Challenge
-Data Challenge: prediction of insulting comments
+# README à construire au fur et à mesure
